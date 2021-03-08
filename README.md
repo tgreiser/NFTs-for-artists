@@ -37,6 +37,8 @@ Memo Atken has created a tool where you can estimate the cost of a specific work
 
 ## How to mint on Tezos
 
+One caveat to Tezos is the account numbers are permanent and everything is out in the open. If someone buys an NFT from you they can see your balance, transfer and sales history if they use a block explorer. It is recommended to keep your account numbers private, but as an artist doing open sales your entire wallet history will be visible to your buyers. The reverse is also true and you could use analytics to tell you when you have had sales to any prolific collectors and what else they like.
+
 1. You will need a small amount of Tezos to pay for minting fees. A few dollars should be enough to get started. Exchanges where it is available are: https://www.kraken.com/ https://www.binance.com/ or https://www.binance.us/
 2. Install the Brave browser. https://brave.com/
 3. Open Brave and then install Temple Wallet. https://templewallet.com/

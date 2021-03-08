@@ -54,6 +54,14 @@ Memo Atken has created a tool where you can estimate the cost of a specific work
 15. Finally click curate and approve the wallet operation.
 16. Sales and royalty fees will automatically appear in your wallet. Now you just need to promote your NFT to your fans.
 
+- Alternative instructions with screenshots - https://drive.google.com/file/d/1wFdlaqBysuFUj86Olt0HGciW08g0xY3E/view?fbclid=IwAR0Genj-apyy5BcQwFjiwndjv7F6Rw7EY1YVVt6li9CNuyJXZVij-mcvbmE
+
 ## Alternative Platforms
 
 DOT - https://kodadot.xyz/
+
+## Digital Art Links
+
+- My experiments - https://www.hicetnunc.xyz/tz/tz1cTS1WwovU7SC783xgJxZrzr151mcshmNi
+- Joanie Lemercier - https://www.hicetnunc.xyz/tz/tz1P5Za1TUMsDejgzMM5iMNfHAxDUpPCHiwZ
+- Quasimondo - https://www.hicetnunc.xyz/tz/tz1hb9PiWxQEf6J9xevPsUM6dkuCLnhDMvsp

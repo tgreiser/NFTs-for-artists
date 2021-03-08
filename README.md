@@ -26,8 +26,12 @@ Beginning in 2012 developers began exploring a new model called Proof of Stake. 
 
 As of March 7, 2021 it costs over $100 in GAS fees to create an NFT on the ETH platform. Those fees create a direct incentive for miners to use electricity to try to collect them. To create an NFT on Tezos, which is a Proof of Stake platform is roughly $0.34. The overhead costs for stake pools on Tezos range from 5%-10% and that includes all hardware and operating costs. From that I estimate that maybe 1-3% of the fee is being used for electricity on the Tezos chain.
 
-Joanie Lemercier recently calculated the cost of minting a single NFT on ETH to be about 80kg of CO2. 
+Carbon.fyi has developed software and a methodology for estimating emissions for specific operations on ETH.
 - https://carbon.fyi/
+- https://www.notion.so/Carbon-FYI-Methodology-51e2d8c41d1c4963970a143b8629f5f9
+- https://github.com/Offsetra/ethereum-emissions-calculator
+
+Joanie Lemercier recently calculated the cost of minting a single NFT on ETH to be about 80kg of CO2. 
 - https://joanielemercier.com/the-problem-of-cryptoart/
 
 Memo Atken has created a tool where you can estimate the cost of a specific work on ETH and has also written extensively on the topic.

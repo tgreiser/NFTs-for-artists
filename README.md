@@ -1,2 +1,59 @@
 # NFTs-for-artists
 Information and educational resources for artists interested in Non-Fungible Tokens / NFTs / crypto collectibles.
+
+DISCLAIMER: none of this should be interpreted as financial advise.
+
+## What are NFTs?
+
+Non-Fungible Tokens are essentially digital serial numbers that can have art or other media attached, and then can be given, sold or traded via various cryptocurrency blockchains and marketplaces. They are now being used for digital trading cards, fine art certificates of authenticity, celebrity memorabilia, music, image, movies and even tweets. The creator of the artwork can retain a royalty on future sales and more complicated royalty structures are coming.
+
+https://www.esquire.com/entertainment/a35742083/what-are-nfts-explained/
+https://www.npr.org/2021/03/05/974089381/whats-an-nft-and-why-are-people-paying-millions-to-buy-them
+
+## How to make NFTs?
+
+There are several competing platforms and many more on the way. The biggest factor will be what marketplace do you want to use and what blockchain is that on? There is a large difference with regards to efficiency, and creating NFTs on the most popular platform, Ethereum costs over 300x more than using a more efficient platform and uses much more electricity. There are currently fewer buyers on smaller platforms like Tezos, but in the future it appears that tokens will be able to move between blockchains and they will all be aggregated in marketplaces like OpenSea, which is kind of like eBay for NFTs.
+
+## Proof of Work
+
+The breakthrough discovery behind Bitcoin in 2008 is a system called Proof of Work. It enables collaboration at scale by providing insurance that the other parties will not be able to cheat. This insurance is accomplished by incentivizing people to invest money into hardware and into electricity and participating in kind of a race to solve math problems. Beyond demonstrating this new concept, Bitcoin has almost no optimization of any kind – all the work has to be done by every participant, and the more value in the system, the more incentive they have to buy expensive hardware and use increasing amounts of electricity. Most people agree that this design is fundamentally wasteful of energy and unable to scale. Bitcoin (BTC) and Ethereum (ETH) are currently using Proof of Work. The vast majority of the industry is in the progress of migrating to newer systems. Even if Bitcoin remains in its current form, it’s energy usage, carbon and environmental footprints are still arguably better than an industry like gold mining.
+
+## Proof of Stake
+
+Beginning in 2012 developers began exploring a new model called Proof of Stake. In this model validators would put up some cryptographic assets as a form of insurance, rather than constantly spending money on hardware and electricity. Rather than massive and expensive hardware, processor nodes can now start running on smaller hardware, even down to a Raspberry Pi in some cases. The main factor differentiating these platforms is how cheaply they are able to deliver their services. There is clear incentive to be efficient and the main input is now an economic input, not electricity. Nearly every main platform for smart contracts or financial services are now transitioning to this model and away from Proof of Work mining. The most successful second-generation platform, ETH, has been struggling with this transition and is currently clogged with transactions and still heavily mining dependent.
+
+## Fees and Environmental Costs
+
+As of March 7, 2021 it costs over $100 in GAS fees to create an NFT on the ETH platform. Those fees create a direct incentive for miners to use electricity to try to collect them. To create an NFT on Tezos, which is a Proof of Stake platform is roughly $0.34. The overhead costs for stake pools on Tezos range from 5%-10% and that includes all hardware and operating costs. From that I estimate that maybe 1-3% of the fee is being used for electricity on the Tezos chain.
+
+Joanie Lemercier recently calculated the cost of minting a single NFT on ETH to be about 80kg of CO2. 
+- https://carbon.fyi/
+- https://joanielemercier.com/the-problem-of-cryptoart/
+
+Memo Atken has created a tool where you can estimate the cost of a specific work on ETH and has also written extensively on the topic.
+- https://github.com/memo/eco-nft
+- http://cryptoart.wtf/#https://superrare.co/artwork-v2/ca-17-8-sandstorm-7749
+- https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
+
+## How to mint on Tezos
+
+1. You will need a small amount of Tezos to pay for minting fees. A few dollars should be enough to get started. Exchanges where it is available are: https://www.kraken.com/ https://www.binance.com/ or https://www.binance.us/
+2. Install the Brave browser. https://brave.com/
+3. Open Brave and then install Temple Wallet. https://templewallet.com/
+4. In Temple Wallet you will need to create a new wallet. This involves writing down a number of secret words (used to recover your wallet or transfer to another computer - keep it safe) and creating a password.
+5. Once your wallet is set up and open, click the receive button. An address will be displayed - it looks like tz...... Click the 'copy to clipboard' button.
+6. Switch back to the exchange where you got the Tezos. You will want to 'send' or 'withdraw' and when it gives you a place to paste the Tezos address and enter how much to send. You will likely also have to put in a 2FA security code to make a transfer.
+7. In a minute or two your funds should show up in your wallet.
+8. Now you can go to Hic Et Nunc, using Brave browser. https://www.hicetnunc.xyz/mint
+9. Click 'sync' and approve your wallet to talk to the site.
+10. Enter a title, description, # of NFTs in the edition and upload your JPG, PNG, GIF, SVG or MP4 attachment.
+11. Once you click Mint you will need to approve the operation and there will be a fee, although the current wallet interface doesn't show this clearly.
+12. You will need to wait a few minutes and then you can use the menu to 'manage assets'.
+13. When you bring up your NFT you will nave a new link to +curate.
+14. Enter the number you want to sell and how much to charge. You are entering µtez, or the number of Tezos followed by six zeros.
+15. Finally click curate and approve the wallet operation.
+16. Sales and royalty fees will automatically appear in your wallet. Now you just need to promote your NFT to your fans.
+
+## Alternative Platforms
+
+DOT - https://kodadot.xyz/

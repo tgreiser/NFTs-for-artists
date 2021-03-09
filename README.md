@@ -39,11 +39,22 @@ Memo Atken has created a tool where you can estimate the cost of a specific work
 - http://cryptoart.wtf/#https://superrare.co/artwork-v2/ca-17-8-sandstorm-7749
 - https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
 
+## Practical Workarounds
+
+- Avoid auction sales - every auction bid results in additional GAS being spent and CO2 emitted.
+- Use lazy minting and don't spend GAS unless someone buys the NFT. Production on demand.
+- - https://opensea.io/blog/announcements/introducing-the-collection-manager/
+- - https://www.ovr.ai/blog/introducing-light-minting/
+
+## Privacy
+
+One caveat to public blockchains is transactions and finances are out in the open. If someone buys an NFT from you they can see your balance, transfer and sales history if they use a block explorer. It is recommended to keep your account numbers private, but as an artist doing open sales your entire wallet history will be visible to your buyers. The reverse is also true and you could use analytics to tell you when you have had sales to any prolific collectors and what else they like. This can potentially result in a cultural race to the bottom, similar to what happened with online news sources. We already see some clickbait artists selling for huge figures.
+
+In Tezos there may be a few things possible to address this. Some kind of aliases might be possible in the short term. It also has some privacy features called Sapling, but it isn't currently in use here. https://tezos.gitlab.io/008/sapling.html
+
+I believe you could also agressively rotate wallets as a creator as a way to keep your data in silos. If each NFT is issued from a separate wallet it becomes harder to know your exact finances in aggregate.
+
 ## How to mint on Tezos
-
-One caveat to Tezos is the account numbers are permanent and everything is out in the open. If someone buys an NFT from you they can see your balance, transfer and sales history if they use a block explorer. It is recommended to keep your account numbers private, but as an artist doing open sales your entire wallet history will be visible to your buyers. The reverse is also true and you could use analytics to tell you when you have had sales to any prolific collectors and what else they like. There is apparently a fix coming for this, called Sapling, but it isn't currently in use here. https://tezos.gitlab.io/008/sapling.html
-
-I think this may be the same situation for metamask, but maybe not for all ETH wallets. In general the issue of address reuse is covered here - https://en.bitcoin.it/wiki/Address_reuse.
 
 1. You will need a small amount of Tezos to pay for minting fees. A few dollars should be enough to get started. Exchanges where it is available are: https://www.kraken.com/ https://www.binance.com/ or https://www.binance.us/
 2. Install the Brave browser. https://brave.com/

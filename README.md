@@ -75,6 +75,8 @@ I believe you could also agressively rotate wallets as a creator as a way to kee
 
 - Alternative instructions with screenshots - https://drive.google.com/file/d/1wFdlaqBysuFUj86Olt0HGciW08g0xY3E/view?fbclid=IwAR0Genj-apyy5BcQwFjiwndjv7F6Rw7EY1YVVt6li9CNuyJXZVij-mcvbmE
 
+You can examine the growth of the Tezos platform here. Total (smart) contract calls is at an all time high and about 3x the volume of Feb. https://better-call.dev/stats/mainnet/general
+
 ## Alternative Platforms
 
 DOT - https://kodadot.xyz/

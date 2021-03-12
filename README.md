@@ -89,3 +89,4 @@ DOT - https://kodadot.xyz/
 - My experiments - https://www.hicetnunc.xyz/tz/tz1cTS1WwovU7SC783xgJxZrzr151mcshmNi
 - Joanie Lemercier - https://www.hicetnunc.xyz/tz/tz1P5Za1TUMsDejgzMM5iMNfHAxDUpPCHiwZ
 - Quasimondo - https://www.hicetnunc.xyz/tz/tz1hb9PiWxQEf6J9xevPsUM6dkuCLnhDMvsp
+- Exsstas - https://www.hicetnunc.xyz/tz/tz1Tk1MJDZ96bK85RLAqtKfnptZZyXsJ2jaq

@@ -58,6 +58,8 @@ I believe you could also agressively rotate wallets as a creator as a way to kee
 
 ## How to mint on Tezos
 
+- Complete detailed guide including a way to get 2 tezos for free to get started. (Updated March 16, 2021) - https://xtz.news/tezos-user-guides/nfts/getting-started-as-an-nft-artist-on-tezos-using-hicetnunc/
+
 1. You will need a small amount of Tezos to pay for minting fees. A few dollars should be enough to get started. Exchanges where it is available are: https://www.kraken.com/ https://www.binance.com/ or https://www.binance.us/
 2. Install the Brave browser. https://brave.com/
 3. Open Brave and then install Temple Wallet. https://templewallet.com/

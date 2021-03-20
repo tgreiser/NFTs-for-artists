@@ -92,3 +92,4 @@ DOT - https://kodadot.xyz/
 - Joanie Lemercier - https://www.hicetnunc.xyz/tz/tz1P5Za1TUMsDejgzMM5iMNfHAxDUpPCHiwZ
 - Quasimondo - https://www.hicetnunc.xyz/tz/tz1hb9PiWxQEf6J9xevPsUM6dkuCLnhDMvsp
 - Exsstas - https://www.hicetnunc.xyz/tz/tz1Tk1MJDZ96bK85RLAqtKfnptZZyXsJ2jaq
+- Boris Chimp 504 - https://www.hicetnunc.xyz/tz/tz1WeuBKYd2BQMbwgivmYqvt4dFuNudBHH56

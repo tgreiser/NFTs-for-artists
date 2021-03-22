@@ -36,10 +36,7 @@ Carbon.fyi has developed software and a methodology for estimating emissions for
 Joanie Lemercier recently calculated the cost of minting a single NFT on ETH to be about 80kg of CO2. 
 - https://joanielemercier.com/the-problem-of-cryptoart/
 
-Memo Atken has created a tool where you can estimate the cost of a specific work on ETH and has also written extensively on the topic.
-- https://github.com/memo/eco-nft
-- http://cryptoart.wtf/#https://superrare.co/artwork-v2/ca-17-8-sandstorm-7749
-- https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053
+Memo Atken has created a tool where you can estimate the cost of a specific work on ETH and has also written extensively on the topic. Some overzealous people started using his tools to make death threats and other irresponsible behiavor and as a result he took the cryptoart.wtf tool down. The underlying research from carbon.fyi is still available.
 
 ## Practical Workarounds
 
@@ -57,6 +54,8 @@ In Tezos there may be a few things possible to address this. Some kind of aliase
 I believe you could also agressively rotate wallets as a creator as a way to keep your data in silos. If each NFT is issued from a separate wallet it becomes harder to know your exact finances in aggregate.
 
 ## How to mint on Tezos
+
+- Quick video - https://www.youtube.com/watch?v=Apyd-I2DMVk
 
 - Complete detailed guide including a way to get 2 tezos for free to get started. (Updated March 16, 2021) - https://xtz.news/tezos-user-guides/nfts/getting-started-as-an-nft-artist-on-tezos-using-hicetnunc/
 
@@ -77,13 +76,18 @@ I believe you could also agressively rotate wallets as a creator as a way to kee
 15. Finally click curate and approve the wallet operation.
 16. Sales and royalty fees will automatically appear in your wallet. Now you just need to promote your NFT to your fans.
 
-- Alternative instructions with screenshots - https://drive.google.com/file/d/1wFdlaqBysuFUj86Olt0HGciW08g0xY3E/view?fbclid=IwAR0Genj-apyy5BcQwFjiwndjv7F6Rw7EY1YVVt6li9CNuyJXZVij-mcvbmE
+## Tezos / Market info
 
-You can examine the growth of the Tezos platform here. Total (smart) contract calls is at an all time high and about 3x the volume of Feb. https://better-call.dev/stats/mainnet/general
+- You can examine the growth of the Tezos platform here. Total (smart) contract calls is at an all time high and about 3x the volume of Feb. https://better-call.dev/stats/mainnet/general
+- Top arists on Hic Et Nunc - https://hashquine.github.io/hicetnunc/
 
 ## Alternative Platforms
 
+https://docs.google.com/spreadsheets/d/1A-7Ama31sYWhXDl6NoJaXnbAV9pFbjxLIgl7jb3CHOs/edit?fbclid=IwAR1nZAMrJcq7gPy1BP8OAa2X7ZH4X5pQKZ0jlqwMEAzODB-eRikSRIfZAb4#gid=0
 DOT - https://kodadot.xyz/
+https://zilliqa.mintable.app/
+https://epor.io/
+
 
 ## Digital Art Links
 

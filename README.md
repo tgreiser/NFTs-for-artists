@@ -80,6 +80,8 @@ I believe you could also agressively rotate wallets as a creator as a way to kee
 
 - You can examine the growth of the Tezos platform here. Total (smart) contract calls is at an all time high and about 3x the volume of Feb. https://better-call.dev/stats/mainnet/general
 - Top arists on Hic Et Nunc - https://hashquine.github.io/hicetnunc/
+- Hic Et Nunc discord - https://discord.gg/CSs6e9uG
+- Hic Et Nunc github - https://github.com/hicetnunc2000/hicetnunc/
 
 ## Alternative Platforms
 

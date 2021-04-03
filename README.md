@@ -82,6 +82,7 @@ I believe you could also agressively rotate wallets as a creator as a way to kee
 - Top arists on Hic Et Nunc - https://hashquine.github.io/hicetnunc/
 - Hic Et Nunc discord - https://discord.gg/CSs6e9uG
 - Hic Et Nunc github - https://github.com/hicetnunc2000/hicetnunc/
+- Multisig wallet for collaborations - https://medium.com/eosatticlab/tzsign-tezos-multisig-wallet-is-here-28ddcf40ec64
 
 ## Alternative Platforms
 

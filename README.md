@@ -92,6 +92,14 @@ DOT - https://kodadot.xyz/
 https://zilliqa.mintable.app/
 https://epor.io/
 
+## H=N API queries
+
+Thanks to bors_nft for help with some of these queries. https://www.hicetnunc.xyz/tz/tz1fb6jz7rh4H7AojLShvhiXKaSNDyvkH7sM
+
+- Royalties - https://staging.api.tzkt.io/v1/bigmaps/522/keys?sort.desc=id&active=true&key.eq=[objkt id]
+- Latest Minted OBJKT number - https://api.tzkt.io/v1/operations/transactions?target=KT1RJ6PbjHpwc3M5rw5s2Nbmefwbuwbdxton&entrypoint=mint&status=applied&limit=1&sort.desc=id
+- OBJKT metadata - https://api.better-call.dev/v1/tokens/mainnet/metadata?token_id=50000
+- Swaps - https://staging.api.tzkt.io/v1/bigmaps/523/keys?sort.desc=id&active=true&value.issuer=[account id]
 
 ## Digital Art Links
 
